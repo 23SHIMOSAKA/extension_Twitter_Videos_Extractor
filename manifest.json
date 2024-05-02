@@ -1,0 +1,7 @@
+{
+    "manifest_version": 3,
+    "name": "Video Extractor",
+    "version": "1.0.0",
+    "description": "Twitterの動画URLを抜き出しちゃおう！",
+    "devtools_page": "devtools.html"
+  }
